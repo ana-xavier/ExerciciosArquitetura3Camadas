@@ -1,0 +1,10 @@
+INSERT INTO produtos (codigo, descricao, preco_unitario, quantidade_estoque) VALUES (1, 'Chaveiro', 10.0, 20);
+INSERT INTO produtos (codigo, descricao, preco_unitario, quantidade_estoque) VALUES (2, 'Cardeneta', 15.0, 15);
+INSERT INTO produtos (codigo, descricao, preco_unitario, quantidade_estoque) VALUES (3, 'Par de Meias', 8.5, 30);
+INSERT INTO produtos (codigo, descricao, preco_unitario, quantidade_estoque) VALUES (4, 'Copo Decorado', 12.0, 25);
+INSERT INTO produtos (codigo, descricao, preco_unitario, quantidade_estoque) VALUES (5, 'Lápis Cinza', 7.0, 40);
+INSERT INTO produtos (codigo, descricao, preco_unitario, quantidade_estoque) VALUES (6, 'Caneta Brilho', 9.0, 10);
+INSERT INTO produtos (codigo, descricao, preco_unitario, quantidade_estoque) VALUES (7, 'Estojo Azul', 20.0, 5);
+INSERT INTO produtos (codigo, descricao, preco_unitario, quantidade_estoque) VALUES (8, 'Caderno 98 Folhas', 25.0, 18);
+INSERT INTO produtos (codigo, descricao, preco_unitario, quantidade_estoque) VALUES (9, 'Kit de Borrachas', 14.0, 22);
+INSERT INTO produtos (codigo, descricao, preco_unitario, quantidade_estoque) VALUES (10, 'Canetinhas', 18.0, 12);
