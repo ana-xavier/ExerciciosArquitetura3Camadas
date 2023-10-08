@@ -15,6 +15,8 @@
   - Entrada no estoque: recebe código do produto e quantidade e atualiza o estoque. Se o produto ainda não existia no estoque cria uma entrada para ele. Caso contrário apenas atualiza a quantidade.
 
   - Compras necessárias: retorna a lista dos códigos dos produtos que estão com o estoque abaixo do mínimo.
+# Postman
+![preview](img/produtos_postman.png)
 
 🌱 2) Implemente o sistema projetado na dinâmica 3 utilizando a arquitetura em 3 camadas.
 
